@@ -4,7 +4,7 @@ This repository contains original music composed by T.D. Stoneheart under _Lux M
 
 All compositions are open-source and available under CC-BY-SA 4.0 License _(details below)_.
 
-Source code of these musical pieces are in OpenMPT format.
+Source code of these musical pieces are in <a href="https://openmpt.org/">OpenMPT</a> format.
 
 MP3 encodes can be downloaded from the SoundCloud profile.
 
@@ -13,7 +13,7 @@ MP3 encodes can be downloaded from the SoundCloud profile.
 
 SoundCloud: https://soundcloud.com/tduyduc
 
-Facebook: https://www.facebook.com/LuxMusic.TDStoneheart/
+Facebook: https://www.facebook.com/LuxMusic.TDStoneheart
 
 YouTube: https://www.youtube.com/channel/UCZHREXHRSxg4Lw8i0p4mKrw
 
@@ -33,7 +33,7 @@ The licensor cannot revoke these freedoms as long as you follow the license term
 * ShareAlike — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
 
 ---
-## Musical Compositions
+## Musical Pieces
 1. _The Lament of Lux_ (2016/12/14)
 2. _Summer Nostalgia_ (2017/01/17)
 3. _Today is a New Day!_ (2017/02/27)
