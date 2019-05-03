@@ -1,6 +1,6 @@
 # Lux Music by T.D. Stoneheart
 
-This repository contains original musical compositions created by T.D. Stoneheart under _Lux Music_ brand.
+This repository contains original music composed by T.D. Stoneheart under _Lux Music_ brand.
 
 All compositions are open-source and available under CC-BY-SA 4.0 License _(details below)_.
 
