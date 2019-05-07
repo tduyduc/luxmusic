@@ -2,6 +2,7 @@
 Copyright ⓒ T.D. Stoneheart. All rights reserved.
 
 # Attribution-ShareAlike 4.0 International License
+```
 =======================================================================
 
 Creative Commons Corporation ("Creative Commons") is not a law firm and
@@ -427,3 +428,4 @@ the avoidance of doubt, this paragraph does not form part of the
 public licenses.
 
 Creative Commons may be contacted at creativecommons.org.
+```
