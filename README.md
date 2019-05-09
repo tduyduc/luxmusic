@@ -25,6 +25,10 @@ The licensor cannot revoke these freedoms as long as you follow the license term
 * ShareAlike — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
 
 ---
+## Known Issues
+* Some musical pieces have inaudible lead voice when listened with monaural audio devices. They have certain channels with surround enabled.
+
+---
 ## Musical Pieces
 1. _The Lament of Lux_ (2016/12/14)
 2. _Summer Nostalgia_ (2017/01/17)
@@ -55,3 +59,4 @@ The licensor cannot revoke these freedoms as long as you follow the license term
 27. _Agony in Despair_ (2019/03/08)
 28. _Light Bloom of Strings_ (2019/04/27)
 29. _Moonlit Lone Beach_ (2019/05/07)
+30. _Dark Ambiance 2_ (2019/05/08)
