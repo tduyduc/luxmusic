@@ -27,6 +27,7 @@ The licensor cannot revoke these freedoms as long as you follow the license term
 ---
 ## Known Issues
 * Some musical pieces have inaudible lead voice when listened with monaural audio devices. They have certain channels with surround enabled.
+* Most musical compositions are not expected to have a good musical quality due to composer's level of skill.
 
 ---
 ## Musical Pieces
@@ -60,3 +61,4 @@ The licensor cannot revoke these freedoms as long as you follow the license term
 28. _Light Bloom of Strings_ (2019/04/27)
 29. _Moonlit Lone Beach_ (2019/05/07)
 30. _Dark Ambiance 2_ (2019/05/08)
+31. _Wraith_ (2019/05/18)
