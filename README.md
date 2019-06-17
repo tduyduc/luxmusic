@@ -9,6 +9,7 @@ MP3 encodes can be downloaded from the SoundCloud profile.
 * SoundCloud: https://soundcloud.com/tduyduc
 * Facebook: https://www.facebook.com/LuxMusic.TDStoneheart
 * YouTube: https://www.youtube.com/channel/UCZHREXHRSxg4Lw8i0p4mKrw
+* Twitter: https://twitter.com/tduyduc
 
 ---
 ## License
