@@ -1,5 +1,5 @@
 # Lux Music by T.D. Stoneheart
-Copyright ⓒ T.D. Stoneheart. All rights reserved.
+Copyright ⓒ 2016–2019 T.D. Stoneheart. All rights reserved.
 
 # Attribution-ShareAlike 4.0 International License
 ```
