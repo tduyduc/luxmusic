@@ -65,3 +65,7 @@ The licensor cannot revoke these freedoms as long as you follow the license term
 30. _Dark Ambiance 2_ (2019/05/08)
 31. _Wraith_ (2019/05/18)
 32. _Stone Lux Mega Mix 2_ (2019/07/31)
+33. _Parting Day_ (2019/10/07)
+34. _The Impromptu of Lux_ (2019/10/08)
+35. _Candidus Lux 3_ (2019/10/14)
+36. _The Impromptu of Lux 2_ (2019/10/22)
