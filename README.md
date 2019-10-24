@@ -69,3 +69,4 @@ The licensor cannot revoke these freedoms as long as you follow the license term
 34. _The Impromptu of Lux_ (2019/10/08)
 35. _Candidus Lux 3_ (2019/10/14)
 36. _The Impromptu of Lux 2_ (2019/10/22)
+37. _Stranded in Desolate Night_ (2019/10/24)
