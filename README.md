@@ -74,3 +74,4 @@ The licensor cannot revoke these freedoms as long as you follow the license term
 39. _The Lament of Lux 3_ (2019/11/24)
 40. _Rhythmic Chill_ (2020/05/03)
 41. _Wintry Gale_ (2020/06/28)
+42. _Abnormality_ (2020/07/21)
