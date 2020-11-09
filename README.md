@@ -1,13 +1,13 @@
 # Lux Music by T.D. Stoneheart
 This repository contains original music composed by T.D. Stoneheart under _Lux Music_ project and brand.  
 All compositions are open-source and available under CC-BY-SA 4.0 License _(details below)_.  
-Source code form of these musical pieces is in <a href="https://openmpt.org/">OpenMPT</a> format.  
-MP3 encodes can be downloaded from the SoundCloud profile.  
+Source code form of these musical pieces is in <a href="https://openmpt.org/">OpenMPT</a> and <a href="http://musescore.org/">MuseScore</a> formats.  
+MP3 encodes can be downloaded from the <a href="https://soundcloud.com/tduyduc">SoundCloud profile</a>.  
 
 ---
 ## Official Web Pages
 * SoundCloud: https://soundcloud.com/tduyduc
-* Bandcamp: https://tdstoneheart.bandcamp.com/
+* Bandcamp: https://tdstoneheart.bandcamp.com
 * YouTube: https://www.youtube.com/channel/UCZHREXHRSxg4Lw8i0p4mKrw
 * Facebook: https://www.facebook.com/LuxMusic.TDStoneheart
 * Twitter: https://twitter.com/tduyduc
