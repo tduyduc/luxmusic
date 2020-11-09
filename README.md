@@ -28,7 +28,6 @@ The licensor cannot revoke these freedoms as long as you follow the license term
 
 ---
 ## Known Issues
-* ~Some musical pieces have inaudible lead voice when listened with monaural audio devices. They have certain channels with surround enabled.~
 * Most musical compositions are not expected to have a good musical quality due to composer's level of skill.
 
 ---
@@ -75,3 +74,5 @@ The licensor cannot revoke these freedoms as long as you follow the license term
 40. _Rhythmic Chill_ (2020/05/03)
 41. _Wintry Gale_ (2020/06/28)
 42. _Abnormality_ (2020/07/21)
+43. _Rhythmic Chill (Alternate Variation)_ (2020/09/21)
+44. _The Lament of Lux 4_ (2020/10/04)
